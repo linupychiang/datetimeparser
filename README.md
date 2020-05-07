@@ -1,2 +1,2 @@
 # datetimeparser
-各种时间格式标准化
+Standardization of various non-standard dates and times
